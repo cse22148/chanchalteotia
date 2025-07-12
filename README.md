@@ -41,9 +41,9 @@ Tools & Others:   Git, GitHub, Postman, VS Code, Cypress, Playwright
 
 ### 📌 Pinned Projects
 
-- 🔗 [RefedConnect - Zero Waste Platform](https://github.com/chanchalteotia/refedconnect)  
-- 🧪 [Automation Bots with A360](https://github.com/chanchalteotia/automation-bots)  
-- 📊 [Full Stack Dashboard](https://github.com/chanchalteotia/dashboard-project)
+- 🔗 [RefedConnect - Zero Waste Platform](https://github.com/cse22148/refedconnect)  
+- 🧪 [Automation Bots with A360](https://github.com/cse22148/automation-bots)  
+- 📊 [Full Stack Dashboard](https://github.com/cse22148/dashboard-project)
 
 ---
 

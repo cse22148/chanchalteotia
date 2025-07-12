@@ -1,4 +1,4 @@
- <img src="banner.png" width="100%" alt="Chanchal Teotia Banner" />
+ <img src="banner.png.png" width="100%" alt="Chanchal Teotia Banner" />
 
 <h1 align="center">Hi 👋, I'm Chanchal Teotia</h1>
 <h3 align="center">A Passionate Full Stack Developer from Greater Noida, India</h3>

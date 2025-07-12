@@ -39,7 +39,7 @@ Tools & Others:   Git, GitHub, Postman, VS Code, Cypress, Playwright
 
 ---
 
-### 📌 Pinned Projects
+
 
  ### 📌 Pinned Projects
 

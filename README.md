@@ -1,5 +1,4 @@
- 
-<img src="banner.png" width="100%" alt="Chanchal Teotia Banner" />
+ <img src="banner.png" width="100%" alt="Chanchal Teotia Banner" />
 
 <h1 align="center">Hi 👋, I'm Chanchal Teotia</h1>
 <h3 align="center">A Passionate Full Stack Developer from Greater Noida, India</h3>
@@ -42,8 +41,8 @@ Tools & Others:   Git, GitHub, Postman, VS Code, Cypress, Playwright
 
 ### 📌 Pinned Projects
 
-- 🔗 [RefedConnect - Zero Waste Platform](https://github.com/chanchalteotia/refedconnect)
-- 🧪 [Automation Bots with A360](https://github.com/chanchalteotia/automation-bots)
+- 🔗 [RefedConnect - Zero Waste Platform](https://github.com/chanchalteotia/refedconnect)  
+- 🧪 [Automation Bots with A360](https://github.com/chanchalteotia/automation-bots)  
 - 📊 [Full Stack Dashboard](https://github.com/chanchalteotia/dashboard-project)
 
 ---
@@ -51,8 +50,8 @@ Tools & Others:   Git, GitHub, Postman, VS Code, Cypress, Playwright
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chanchalteotia&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanchalteotia&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cse22148&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cse22148&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
